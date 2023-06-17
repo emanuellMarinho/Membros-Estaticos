@@ -49,3 +49,7 @@ No código fornecido, a classe `CurrencyConverter` possui dois membros estático
  método estático que realiza a conversão de dólares para reais. Ele também pode ser acessado diretamente pela classe, sem precisar criar um objeto. Isso permite que o método seja chamado a partir do método `main` da classe `Program` para realizar a conversão.
 
 Os membros estáticos são úteis quando se deseja compartilhar valores ou funcionalidades entre várias instâncias de uma classe ou quando não é necessário criar uma instância da classe para acessar determinado valor ou funcionalidade.
+
+## Curso de Referência
+
+Este projeto foi desenvolvido com base no curso "Java Completo Programação Orientada a Objetos +Projetos" ministrado pelo professor Nelio Alves. O curso fornece um amplo conhecimento sobre programação orientada a objetos em Java e pode ser acessado [aqui](https://www.udemy.com/course/java-curso-completo/).
